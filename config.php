@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://hintang.kkn2.go.th/images/product/',
+        'url'		=> 'https://hintang.kkn2.go.th/product/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
