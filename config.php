@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'http://agri-waf.kps.ku.ac.th/News/newsagri/NewsForeign/product/',
+        'url'		=> 'https://agri.kps.ku.ac.th/product/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
