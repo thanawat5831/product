@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://division.dwr.go.th/product/',
+        'url'		=> 'https://smart.hss.moph.go.th/phdb/product/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
