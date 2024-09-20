@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://agri.kps.ku.ac.th/product/',
+        'url'		=> 'https://division.dwr.go.th/product/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
