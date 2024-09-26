@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://www.np.ac.th/np/stusys/produc/',
+        'url'		=> 'https://division.bangkok.go.th/dotat/product/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
